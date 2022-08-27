@@ -21,12 +21,12 @@ IPython
 deepwave 0.0.8
 ```
 ##### NOTE 
-We install the deepwave with https://github.com/guoketing/deepwave-order.git which provides finite difference scheme with 8th-order accuracy in the space domain. Run ```python setup.py install ``` to achieve the installation. Moreover, it is better to use Conda for the installation of all dependecies.
+We install the deepwave with https://github.com/guoketing/deepwave-order.git which provides finite difference scheme with 8th-order accuracy in the space domain. ```cd ./deepwave-order/``` and run ```python setup.py install ``` to achieve the installation. Moreover, it is better to use Conda for the installation of all dependecies.
 
 ## Run the code
 Enter the FWIGAN folder
 ```
-cd ./FWIGAN
+cd ./FWIGAN/
 ```
 Correct the parameter settings and data path in ```ParamConfig.py``` and ```PathConfig.py```
 
