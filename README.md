@@ -58,6 +58,7 @@ Then, run the following script to generate dataset and implement traditional FWI
 python FWI_main.py
 ```
 The initla model, source amplitude, and observed data are saved in the result path.
+
 Next, run the following script to impement FWIGAN
 ```
 python FWIGAN_main.py
