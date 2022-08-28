@@ -20,7 +20,7 @@ pytest 6.2.4
 IPython
 deepwave 0.0.8
 ```
-##### NOTE 
+#### NOTE 
 We install the deepwave with https://github.com/guoketing/deepwave-order.git which provides finite difference scheme with 8th-order accuracy in the space domain. ```cd ./deepwave-order/``` and run ```python setup.py install ``` to achieve the installation. Moreover, it is better to use Conda for the installation of all dependecies.
 
 ## Run the code
