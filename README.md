@@ -74,8 +74,12 @@ python FWIDIP.py
 ## Results
 Outputs can be found in ```FWIGAN/results/```.
 #### Visual examples
-![Inversion results of the Marmousi2 model with noise-free observed data. First row: true P-wave velocity model and initial guess. Second row: inverted results using traditional FWI constrained by least-square loss and 1D Wasserstein-1 distance. Third row: inverted results using FWIDIP and FWIGAN.](/images/mar_big_rec.png)
-
+Marmousi Model:
+![Inversion results of the Marmousi2 model.](/images/mar_smal_rec.png)
+Marmousi2 Model:
+![Inversion results of the Marmousi2 model.](/images/mar_big_rec.png)
+Overthrust Model:
+![Inversion results of the Marmousi2 model.](/images/over_rec.png)
 ## Citation
 
 If you find the paper and the code useful in your research, please cite the paper:
