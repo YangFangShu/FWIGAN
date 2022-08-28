@@ -11,7 +11,7 @@ Full-waveform inversion~(FWI) is a powerful geophysical imaging technique that p
 python 3.8.13  
 pytorch 1.7.1
 scipy 1.8.0
-numpy v1.17
+numpy 
 matplotlib 3.5.1
 scikit-image 0.19.2
 math
