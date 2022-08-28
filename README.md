@@ -74,14 +74,14 @@ python FWIDIP.py
 
 ## Results
 Outputs can be found in ```/FWIGAN/results/...```.
-#### Visual examples
-#### Marmousi Model:
+### Visual examples
+#### 1. Marmousi Model:
 ![Inversion results of the Marmousi2 model.](/images/mar_smal_rec.png)
 
-#### Marmousi2 Model:
+#### 2. Marmousi2 Model:
 ![Inversion results of the Marmousi2 model.](/images/mar_big_rec.png)
 
-#### Overthrust Model:
+#### 3. Overthrust Model:
 ![Inversion results of the Marmousi2 model.](/images/over_rec.png)
 
 ## Citation
