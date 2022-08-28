@@ -1,5 +1,5 @@
 # FWIGAN
-This repo contains a PyTorch implementation with DeepWave for the paper FWIGAN: Full-waveform inversion via a physics-informed generative adversarial network, which is submitted to the Journal of Geophysical Research-Solid Earth. The preliminary arxiv version of this project (Revisit Geophysical Imaging in A New View of Physics-informed Generative Adversarial Learning) is availabel [here](https://arxiv.org/abs/2109.11452).
+This repo contains a PyTorch implementation with DeepWave for the paper ```FWIGAN: Full-waveform inversion via a physics-informed generative adversarial network```, which is submitted to the Journal of Geophysical Research-Solid Earth. The preliminary arxiv version of this project (Revisit Geophysical Imaging in A New View of Physics-informed Generative Adversarial Learning) is availabel [here](https://arxiv.org/abs/2109.11452).
 
 ![Flowchart of FWIGAN](/images/flowchat.png)
 
