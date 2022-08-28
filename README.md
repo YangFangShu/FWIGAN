@@ -59,7 +59,7 @@ python FWI_main.py
 ```
 The initla model, source amplitude, and observed data are saved in the result path.
 
-Next, run the following script to impement FWIGAN
+Next, run the following script to implement FWIGAN
 ```
 python FWIGAN_main.py
 ```
@@ -67,13 +67,13 @@ For the implementation of FWIDIP, run the follwing script to pretrain the networ
 ```
 python dip_pretrain.py
 ```
-After the pre-training is done, you can run the following script to impement FWIDIP
+After the pretraining is done, you can run the following script to implement FWIDIP
 ```
 python FWIDIP.py
 ```
 
 ## Results
-Outputs can be found in ```FWIGAN/results/```.
+Outputs can be found in ```/FWIGAN/results/...```.
 #### Visual examples
 Marmousi Model:
 ![Inversion results of the Marmousi2 model.](/images/mar_smal_rec.png)
