@@ -71,7 +71,7 @@ python dip_pretrain.py
 ```
 After the pretraining is done, you can run the following script to implement FWIDIP
 ```
-python FWIDIP.py
+python FWIDIP_main.py
 ```
 
 ## Results
