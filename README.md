@@ -90,11 +90,13 @@ Outputs can be found in ```/FWIGAN/results/...```.
 
 If you find the paper and the code useful in your research, please cite the paper:
 ```
-@article{yang2021revisit,
-  title={Revisit Geophysical Imaging in A New View of Physics-informed Generative Adversarial Learning},
+@article{yang2023fwigan,
+  title={FWIGAN: Full-waveform inversion via a physics-informed generative adversarial network},
   author={Yang, Fangshu and Ma, Jianwei},
-  journal={arXiv preprint arXiv:2109.11452},
-  year={2021}
+  journal={Journal of Geophysical Research: Solid Earth},
+  pages={e2022JB025493},
+  year={2023},
+  publisher={Wiley Online Library}
 }
 ```
 If you have any questions about this work, feel free to contract us: yangfs@hit.edu.cn
